@@ -1,0 +1,6 @@
+{
+	"cmd": ["D:\\users\\zhbei\\AppData\\Local\\Programs\\Python\\Python36","-u","$file"],
+	"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+	"selector": "source.python",
+	"encoding": "cp936"
+}

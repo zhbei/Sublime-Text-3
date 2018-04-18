@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"Alignment",
+		"All Autocomplete",
+		"Anaconda",
+		"Auto Refresh",
+		"AutoPEP8",
+		"BracketHighlighter",
+		"C++ Completions",
+		"C++11",
+		"Cscope",
+		"CTags",
+		"Dayle Rees Color Schemes",
+		"Fortran",
+		"MinimalFortran",
+		"Package Control",
+		"Request",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeEnhancedUtilitiesSet",
+		"SublimeREPL"
+	]
+}
